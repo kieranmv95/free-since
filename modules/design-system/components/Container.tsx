@@ -14,8 +14,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: colors.rand['400'],
-    alignItems: 'center',
-    justifyContent: 'center',
     padding: spacing['4'],
     gap: spacing['5'],
   },
