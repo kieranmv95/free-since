@@ -12,9 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.kieranvenison.freesince"
@@ -33,8 +31,6 @@
         "projectId": "e5239906-e467-4c76-bcd0-01e2fb998548"
       }
     },
-    "plugins": [
-      "expo-router"
-    ]
+    "plugins": ["expo-router"]
   }
 }
